@@ -1,0 +1,46 @@
+const CaseStudyData = [
+	{
+		id: 1,
+		titlespan: "UPDATED ON 10TH NOVEMBER 2023",
+		title: "Accelerated Case Studies",
+		desc1: "In our case studies you will find inspiring success stories from Brands like The Oodie, Kinobody, Acquisition.com or Vessi. They show how Accelerated helps to optimize website performance and increase bottom-line. ",
+		desc2: "If you want to understand the exact process, check out the Process & Thesis page.",
+		videoTitle: "The Oodie, Davie Fogarty",
+		video: <iframe width="100%" height="300" src="https://www.youtube.com/embed/wNUR5Fnij1w?si=e_CmeY9vzFb22gtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
+		h3: "Problem",
+		p: "Outdated Page-Design, no Landing Pages for Performance Marketing",
+		h31: "Solution",
+		p1: "Full conversion focussed rebuilt of PDP & Landing Pages and tons of successful AB Tests",
+		li1: "Millions of additional Revenue",
+		li2: "Increased Paid Media ROI",
+		li3: "Higher Brand Value",
+		ultitle: "Result",
+	},
+	{
+		id: 2,   
+		videoTitle: "The Oodie, Davie Fogarty",
+		video: <iframe width="100%" height="300" src="https://www.youtube.com/embed/AJhAamFtwco?si=FtZi23zmLwAQBhUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
+		h3: "Problem",
+		p: "Flawed Data Tracking and Analysis Set Up, No Cold-Friendly-Offer",
+		h31: "Solution",
+		p1: "Customised Data and Attribution Set Up, Custom Offer & Funnel for Paid Acquisition",
+		li1: "Increased monthly profits by 6-Figures in first 90 days",
+		li2: "Built New Hero Offer",
+		li3: "Scaled on 9.3 ROAS",
+		ultitle: "Result",
+	},
+	{
+		id: 3,   
+		videoTitle: "Cocunat Beauty, Ignasi Faus",
+		video: <iframe width="100%" height="300" src="https://www.youtube.com/embed/AJhAamFtwco?si=FtZi23zmLwAQBhUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
+		h3: "Problem",
+		p: "No data-driven process for Website Iterations, declining CVR & AOV",
+		h31: "Solution",
+		p1: "Custom CRO Program and AB Testing Process",
+		li1: "$500,000 increase in Bottom Line in first 60 days",
+		li2: "Built Funnel Blue Print for Hero-Products", 
+		ultitle: "Result",
+	}
+];
+
+export default CaseStudyData;

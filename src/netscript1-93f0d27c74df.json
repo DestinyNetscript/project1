@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "netscript1",
+  "private_key_id": "93f0d27c74df590108db4d704ef6d272835e8a96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDR/p8MHPfgyq9E\ne8blkUaycdeOkE1T2o//AQvZxJqoN5YSq10U5+Uv5Kgvx932HDokgjqqF3p4CfFx\np8NhNhLs7QWDGm0rjUh2kE6T+Bburub99EsMGVzHdzg+U+BDXAG3QYXckliUb5PF\nGg051iyFXYfPoNnLPYrsNhL1f4oSUf5Ymofu9JBOqgLd/uFHYf5Z1scsJirxbuAx\nQ0gVxA0tTfpsnzpz7F4E4SKSIa/Rcb7fsbA4lNN/RWUOHVSgST/WHJZw+n75BmWO\nmFuu7gsMTUITosQk6Q96peUQaDLBvvldLsPX6m1D5i0XwMJrrKMg4oSL1d3FZqkY\ng6G8zehpAgMBAAECggEAA5zdUKCI9TGXfVahz95FeJlzy2yZH/mxI4J5mTgELyOx\nrcWL9umcbEwDRrsqCutmZq1k4/s+bKVDJaDswBXlknTrdNt2CFtIZV3LNEl+34Fb\n0P+scNtY2MeozI213ILPNr9mVaqg4oDe6nOtyZJxNqQqy3wpcxEufCzb+6RDlFgT\nxZrWkiy6D2kaj20oDX6w82qRUuWN8otaA0qbWBCx7AMlPidGvQir72eJMS4co17y\n2cl9R6yHwp7KdPAtWTFWCi80CPOs0PG+ZA/PicW9zZw4v4nxMPEs44lJ+hHFVUme\nAzfjCOrzHO8MyBJUkJmNuFlsSfg3TnYvYNQI0bPZgQKBgQD82/hee2gJZGoh1t6P\nkPE+z1evpcYptDiTnkJYd0DMkEteebtceKmPZFZ3Wceq9DUF4tj9HP5kO6oUX5DN\nGxqXaNHSHSHCYq+tR9zMOSWBiMFRaG9EvvWWZ52NeC8435dZniJOkayOi24a32v0\nPyL/HvWkNcHI5J9w5TwEKkgUoQKBgQDUmlollqyZ9MUqIaRapZVQ1EionltFrCwR\nnzy7svA9YzXdYphIoAHDmQ45E/RXZrJl8nA9r3DfZKGKpDAN9seGIzffMqZFPq73\ncM4K1+tfUOib62nS+rMkcyX4Jt4thjXcLd9UvKb81NA7Seb+x1wLVngkBZZ1rMkS\ngb7luIP2yQKBgEO8WWhV/qSldZjjCnPDDB0bRg4ThmYdlRpWRseUCpPCA66nRX2c\nBTAYXOFT95zgFmQhRKdpYOxQ31rdzthi7lipB6wVibmc3hq5KXi7xkRQ8hhwtX3g\n+cD0uMvw6hV+L/kd12rcszDsQO6J801WrHVTQdJfZC4AsIV5ov4qpWyBAoGBAMTz\nWJ+JvcvB3QTytXbj/jcq8USDrroUjZ6ljXW0hqnXxoaYV8qvr/KrT2nA+pIdKRcY\nSLJcXIwWhTASehH1k1DIP3IdUbrEHwJLFhUlgX6DTXlj1F0Gsf4KThpcp2Y09qBK\nPqIZQfjmjSDfjYZo2PQH3rRAGOpabsseNuJI1LdBAoGAPWA5uUZxJ1FZ56Fa/Q1u\n6WX1qkGzBpbV+qTIsH64bo6ZMhq0iDi+oyjGkgjt1GyeZFZRmqy/sryx9A4B2Hru\naRYAHnOIXffiRzo8ZuWF+ArasuIP7bD421XTjJIPPlnbg1yHgCzOQyJ5B7LsXTcC\n+aZFq+N08FIsrwJVxRu7+9A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "accdigvijaynetscript@netscript1.iam.gserviceaccount.com",
+  "client_id": "102208758238614618950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accdigvijaynetscript%40netscript1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
